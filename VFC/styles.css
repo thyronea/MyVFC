@@ -1,0 +1,7 @@
+#next {
+  display: none;
+}
+
+#next.show {
+  display: block;
+}
